@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\baidunetdiskdownload\tcp\tcp\main.cpp(83): warning C4311: “类型转换”: 从“char *”到“int”的指针截断
+f:\baidunetdiskdownload\tcp\tcp\main.cpp(83): warning C4302: “类型转换”: 从“char *”到“int”截断
+f:\baidunetdiskdownload\tcp\tcp\main.cpp(31): warning C4101: “send_buf”: 未引用的局部变量
+f:\baidunetdiskdownload\tcp\tcp\main.cpp(22): error C4716: “IsConnect”: 必须返回一个值
